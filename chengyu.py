@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # 导入pyperclip模块，以及你之前的代码
 import pyperclip
 import streamlit as st
